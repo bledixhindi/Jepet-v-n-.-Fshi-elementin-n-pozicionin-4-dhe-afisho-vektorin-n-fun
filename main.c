@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-   int v[100], p, i, n;
+   int v[10], p, i, n;
 
    printf("Vendos nr e elementeve:\n");
    scanf("%d", &n);
